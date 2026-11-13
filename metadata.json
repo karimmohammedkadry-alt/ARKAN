@@ -1,0 +1,6 @@
+{
+  "name": "أركان العقارية | CODEX",
+  "description": "منصة عقارية ثلاثية الأبعاد للتجول الافتراضي داخل الوحدات السكنية، الإدارة اللحظية، التنبيهات الفورية، والدفع الإلكتروني — من تطوير شركة CODEX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
